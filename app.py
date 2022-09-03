@@ -4,7 +4,7 @@ import csv
 
 # Get your API key here: https://scraptik.com
 
-scraptik_apikey = ""
+scraptik_apikey = "0695c9317bmsh1fb414b8396a647p1fa09ajsn99a324b8ccf1"
 
 user_id = "6802299750194643973"
 
